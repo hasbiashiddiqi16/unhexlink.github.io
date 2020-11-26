@@ -3389,7 +3389,8 @@
     content: "\ed5c";
   }
   .visible_outlined:before {
-    content: "\ed5d";
+    content: "\f06e";
+    font-family: FontAwesome;
   }
   .visible:before {
     content: "\ed5e";
